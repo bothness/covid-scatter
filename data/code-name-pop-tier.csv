@@ -1,0 +1,383 @@
+code,name,group,population
+E06000001,Hartlepool,Tier 3,93663
+E06000002,Middlesbrough,Tier 3,140980
+E06000003,Redcar and Cleveland,Tier 3,137150
+E06000004,Stockton-on-Tees,Tier 3,197348
+E06000005,Darlington,Tier 3,106803
+E06000006,Halton,Tier 2,129410
+E06000007,Warrington,Tier 2,210014
+E06000008,Blackburn with Darwen,Tier 3,149696
+E06000009,Blackpool,Tier 3,139446
+E06000010,"Kingston upon Hull, City of",Tier 3,259778
+E06000011,East Riding of Yorkshire,Tier 3,341173
+E06000012,North East Lincolnshire,Tier 3,159563
+E06000013,North Lincolnshire,Tier 3,172292
+E06000014,York,Tier 2,210618
+E06000015,Derby,Tier 3,257302
+E06000016,Leicester,Tier 3,354224
+E06000017,Rutland,Tier 2,39927
+E06000018,Nottingham,Tier 3,332900
+E06000019,"Herefordshire, County of",Tier 2,192801
+E06000020,Telford and Wrekin,Tier 2,179854
+E06000021,Stoke-on-Trent,Tier 3,256375
+E06000022,Bath and North East Somerset,Tier 2,193282
+E06000023,"Bristol, City of",Tier 3,463377
+E06000024,North Somerset,Tier 3,215052
+E06000025,South Gloucestershire,Tier 3,285093
+E06000026,Plymouth,Tier 2,262100
+E06000027,Torbay,Tier 2,136264
+E06000030,Swindon,Tier 2,222193
+E06000031,Peterborough,Tier 2,202259
+E06000032,Luton,Tier 2,213052
+E06000033,Southend-on-Sea,Tier 2,183125
+E06000034,Thurrock,Tier 2,174341
+E06000035,Medway,Tier 3,278556
+E06000036,Bracknell Forest,Tier 2,122549
+E06000037,West Berkshire,Tier 2,158450
+E06000038,Reading,Tier 2,161780
+E06000039,Slough,Tier 3,149539
+E06000040,Windsor and Maidenhead,Tier 2,151422
+E06000041,Wokingham,Tier 2,171119
+E06000042,Milton Keynes,Tier 2,269457
+E06000043,Brighton and Hove,Tier 2,290885
+E06000044,Portsmouth,Tier 2,214905
+E06000045,Southampton,Tier 2,252520
+E06000046,Isle of Wight,Tier 1,141771
+E06000047,County Durham,Tier 3,530094
+E06000049,Cheshire East,Tier 2,384152
+E06000050,Cheshire West and Chester,Tier 2,343071
+E06000051,Shropshire,Tier 2,323136
+E06000052,Cornwall,Tier 1,569578
+E06000053,Isles of Scilly,Tier 1,2224
+E06000054,Wiltshire,Tier 2,500024
+E06000055,Bedford,Tier 2,173292
+E06000056,Central Bedfordshire,Tier 2,288648
+E06000057,Northumberland,Tier 3,322434
+E06000058,"Bournemouth, Christchurch and Poole",Tier 2,395331
+E06000059,Dorset,Tier 2,378508
+E07000004,Aylesbury Vale,Tier 2,203219
+E07000005,Chiltern,Tier 2,96046
+E07000006,South Bucks,Tier 2,70440
+E07000007,Wycombe,Tier 2,174268
+E07000008,Cambridge,Tier 2,124798
+E07000009,East Cambridgeshire,Tier 2,89840
+E07000010,Fenland,Tier 2,101850
+E07000011,Huntingdonshire,Tier 2,177963
+E07000012,South Cambridgeshire,Tier 2,159086
+E07000026,Allerdale,Tier 2,97761
+E07000027,Barrow-in-Furness,Tier 2,67049
+E07000028,Carlisle,Tier 2,108678
+E07000029,Copeland,Tier 2,68183
+E07000030,Eden,Tier 2,53253
+E07000031,South Lakeland,Tier 2,105088
+E07000032,Amber Valley,Tier 3,128147
+E07000033,Bolsover,Tier 3,80562
+E07000034,Chesterfield,Tier 3,104900
+E07000035,Derbyshire Dales,Tier 3,72325
+E07000036,Erewash,Tier 3,115371
+E07000037,High Peak,Tier 3,92666
+E07000038,North East Derbyshire,Tier 3,101462
+E07000039,South Derbyshire,Tier 3,107261
+E07000040,East Devon,Tier 2,146284
+E07000041,Exeter,Tier 2,131405
+E07000042,Mid Devon,Tier 2,82311
+E07000043,North Devon,Tier 2,97145
+E07000044,South Hams,Tier 2,87004
+E07000045,Teignbridge,Tier 2,134163
+E07000046,Torridge,Tier 2,68267
+E07000047,West Devon,Tier 2,55796
+E07000061,Eastbourne,Tier 2,103745
+E07000062,Hastings,Tier 2,92661
+E07000063,Lewes,Tier 2,103268
+E07000064,Rother,Tier 2,96080
+E07000065,Wealden,Tier 2,161475
+E07000066,Basildon,Tier 2,187199
+E07000067,Braintree,Tier 2,152604
+E07000068,Brentwood,Tier 2,77021
+E07000069,Castle Point,Tier 2,90376
+E07000070,Chelmsford,Tier 2,178388
+E07000071,Colchester,Tier 2,194706
+E07000072,Epping Forest,Tier 2,131689
+E07000073,Harlow,Tier 2,87067
+E07000074,Maldon,Tier 2,64926
+E07000075,Rochford,Tier 2,87368
+E07000076,Tendring,Tier 2,146561
+E07000077,Uttlesford,Tier 2,91284
+E07000078,Cheltenham,Tier 2,116306
+E07000079,Cotswold,Tier 2,89862
+E07000080,Forest of Dean,Tier 2,86791
+E07000081,Gloucester,Tier 2,129128
+E07000082,Stroud,Tier 2,119964
+E07000083,Tewkesbury,Tier 2,95019
+E07000084,Basingstoke and Deane,Tier 2,176582
+E07000085,East Hampshire,Tier 2,122308
+E07000086,Eastleigh,Tier 2,133584
+E07000087,Fareham,Tier 2,116233
+E07000088,Gosport,Tier 2,84838
+E07000089,Hart,Tier 2,97073
+E07000090,Havant,Tier 2,126220
+E07000091,New Forest,Tier 2,180086
+E07000092,Rushmoor,Tier 2,94599
+E07000093,Test Valley,Tier 2,126160
+E07000094,Winchester,Tier 2,124859
+E07000095,Broxbourne,Tier 2,97279
+E07000096,Dacorum,Tier 2,154763
+E07000098,Hertsmere,Tier 2,104919
+E07000099,North Hertfordshire,Tier 2,133570
+E07000102,Three Rivers,Tier 2,93323
+E07000103,Watford,Tier 2,96577
+E07000105,Ashford,Tier 3,130032
+E07000106,Canterbury,Tier 3,165394
+E07000107,Dartford,Tier 3,112606
+E07000108,Dover,Tier 3,118131
+E07000109,Gravesham,Tier 3,106939
+E07000110,Maidstone,Tier 3,171826
+E07000111,Sevenoaks,Tier 3,120750
+E07000112,Folkestone and Hythe,Tier 3,112996
+E07000113,Swale,Tier 3,150082
+E07000114,Thanet,Tier 3,141922
+E07000115,Tonbridge and Malling,Tier 3,132153
+E07000116,Tunbridge Wells,Tier 3,118724
+E07000117,Burnley,Tier 3,88920
+E07000118,Chorley,Tier 3,118216
+E07000119,Fylde,Tier 3,80780
+E07000120,Hyndburn,Tier 3,81043
+E07000121,Lancaster,Tier 3,146038
+E07000122,Pendle,Tier 3,92112
+E07000123,Preston,Tier 3,143135
+E07000124,Ribble Valley,Tier 3,60888
+E07000125,Rossendale,Tier 3,71482
+E07000126,South Ribble,Tier 3,110788
+E07000127,West Lancashire,Tier 3,114306
+E07000128,Wyre,Tier 3,112091
+E07000129,Blaby,Tier 3,101526
+E07000130,Charnwood,Tier 3,185851
+E07000131,Harborough,Tier 3,93807
+E07000132,Hinckley and Bosworth,Tier 3,113136
+E07000133,Melton,Tier 3,51209
+E07000134,North West Leicestershire,Tier 3,103611
+E07000135,Oadby and Wigston,Tier 3,57015
+E07000136,Boston,Tier 3,70173
+E07000137,East Lindsey,Tier 3,141727
+E07000138,Lincoln,Tier 3,99299
+E07000139,North Kesteven,Tier 3,116915
+E07000140,South Holland,Tier 3,95019
+E07000141,South Kesteven,Tier 3,142424
+E07000142,West Lindsey,Tier 3,95667
+E07000143,Breckland,Tier 2,139968
+E07000144,Broadland,Tier 2,130783
+E07000145,Great Yarmouth,Tier 2,99336
+E07000146,King's Lynn and West Norfolk,Tier 2,151383
+E07000147,North Norfolk,Tier 2,104837
+E07000148,Norwich,Tier 2,140573
+E07000149,South Norfolk,Tier 2,140880
+E07000150,Corby,Tier 2,72218
+E07000151,Daventry,Tier 2,85950
+E07000152,East Northamptonshire,Tier 2,94527
+E07000153,Kettering,Tier 2,101776
+E07000154,Northampton,Tier 2,224610
+E07000155,South Northamptonshire,Tier 2,94490
+E07000156,Wellingborough,Tier 2,79707
+E07000163,Craven,Tier 2,57142
+E07000164,Hambleton,Tier 2,91594
+E07000165,Harrogate,Tier 2,160831
+E07000166,Richmondshire,Tier 2,53730
+E07000167,Ryedale,Tier 2,55380
+E07000168,Scarborough,Tier 2,108757
+E07000169,Selby,Tier 2,90620
+E07000170,Ashfield,Tier 3,127918
+E07000171,Bassetlaw,Tier 3,117459
+E07000172,Broxtowe,Tier 3,114033
+E07000173,Gedling,Tier 3,117896
+E07000174,Mansfield,Tier 3,109313
+E07000175,Newark and Sherwood,Tier 3,122421
+E07000176,Rushcliffe,Tier 3,119184
+E07000177,Cherwell,Tier 2,150503
+E07000178,Oxford,Tier 2,152457
+E07000179,South Oxfordshire,Tier 2,142057
+E07000180,Vale of White Horse,Tier 2,136007
+E07000181,West Oxfordshire,Tier 2,110643
+E07000187,Mendip,Tier 2,115587
+E07000188,Sedgemoor,Tier 2,123178
+E07000189,South Somerset,Tier 2,168345
+E07000192,Cannock Chase,Tier 3,100762
+E07000193,East Staffordshire,Tier 3,119754
+E07000194,Lichfield,Tier 3,104756
+E07000195,Newcastle-under-Lyme,Tier 3,129441
+E07000196,South Staffordshire,Tier 3,112436
+E07000197,Stafford,Tier 3,137280
+E07000198,Staffordshire Moorlands,Tier 3,98435
+E07000199,Tamworth,Tier 3,76696
+E07000200,Babergh,Tier 2,92036
+E07000202,Ipswich,Tier 2,136913
+E07000203,Mid Suffolk,Tier 2,103895
+E07000207,Elmbridge,Tier 2,136795
+E07000208,Epsom and Ewell,Tier 2,80627
+E07000209,Guildford,Tier 2,148998
+E07000210,Mole Valley,Tier 2,87245
+E07000211,Reigate and Banstead,Tier 2,148748
+E07000212,Runnymede,Tier 2,89424
+E07000213,Spelthorne,Tier 2,99844
+E07000214,Surrey Heath,Tier 2,89305
+E07000215,Tandridge,Tier 2,88129
+E07000216,Waverley,Tier 2,126328
+E07000217,Woking,Tier 2,100793
+E07000218,North Warwickshire,Tier 3,65264
+E07000219,Nuneaton and Bedworth,Tier 3,129883
+E07000220,Rugby,Tier 3,108935
+E07000221,Stratford-on-Avon,Tier 3,130098
+E07000222,Warwick,Tier 3,143753
+E07000223,Adur,Tier 2,64301
+E07000224,Arun,Tier 2,160758
+E07000225,Chichester,Tier 2,121129
+E07000226,Crawley,Tier 2,112409
+E07000227,Horsham,Tier 2,143791
+E07000228,Mid Sussex,Tier 2,151022
+E07000229,Worthing,Tier 2,110570
+E07000234,Bromsgrove,Tier 2,99881
+E07000235,Malvern Hills,Tier 2,78698
+E07000236,Redditch,Tier 2,85261
+E07000237,Worcester,Tier 2,101222
+E07000238,Wychavon,Tier 2,129433
+E07000239,Wyre Forest,Tier 2,101291
+E07000240,St Albans,Tier 2,148452
+E07000241,Welwyn Hatfield,Tier 2,123043
+E07000242,East Hertfordshire,Tier 2,149748
+E07000243,Stevenage,Tier 2,87845
+E07000244,East Suffolk,Tier 2,249461
+E07000245,West Suffolk,Tier 2,179045
+E07000246,Somerset West and Taunton,Tier 2,155115
+E08000001,Bolton,Tier 3,287550
+E08000002,Bury,Tier 3,190990
+E08000003,Manchester,Tier 3,552858
+E08000004,Oldham,Tier 3,237110
+E08000005,Rochdale,Tier 3,222412
+E08000006,Salford,Tier 3,258834
+E08000007,Stockport,Tier 3,293423
+E08000008,Tameside,Tier 3,226493
+E08000009,Trafford,Tier 3,237354
+E08000010,Wigan,Tier 3,328662
+E08000011,Knowsley,Tier 2,150862
+E08000012,Liverpool,Tier 2,498042
+E08000013,St. Helens,Tier 2,180585
+E08000014,Sefton,Tier 2,276410
+E08000015,Wirral,Tier 2,324011
+E08000016,Barnsley,Tier 3,246866
+E08000017,Doncaster,Tier 3,311890
+E08000018,Rotherham,Tier 3,265411
+E08000019,Sheffield,Tier 3,584853
+E08000021,Newcastle upon Tyne,Tier 3,302820
+E08000022,North Tyneside,Tier 3,207913
+E08000023,South Tyneside,Tier 3,150976
+E08000024,Sunderland,Tier 3,277705
+E08000025,Birmingham,Tier 3,1141816
+E08000026,Coventry,Tier 3,371521
+E08000027,Dudley,Tier 3,321596
+E08000028,Sandwell,Tier 3,328450
+E08000029,Solihull,Tier 3,216374
+E08000030,Walsall,Tier 3,285478
+E08000031,Wolverhampton,Tier 3,263357
+E08000032,Bradford,Tier 3,539776
+E08000033,Calderdale,Tier 3,211455
+E08000034,Kirklees,Tier 3,439787
+E08000035,Leeds,Tier 3,793139
+E08000036,Wakefield,Tier 3,348312
+E08000037,Gateshead,Tier 3,202055
+E09000001,City of London,Tier 2,9721
+E09000002,Barking and Dagenham,Tier 2,212906
+E09000003,Barnet,Tier 2,395869
+E09000004,Bexley,Tier 2,248287
+E09000005,Brent,Tier 2,329771
+E09000006,Bromley,Tier 2,332336
+E09000007,Camden,Tier 2,270029
+E09000008,Croydon,Tier 2,386710
+E09000009,Ealing,Tier 2,341806
+E09000010,Enfield,Tier 2,333794
+E09000011,Greenwich,Tier 2,287942
+E09000012,Hackney,Tier 2,281120
+E09000013,Hammersmith and Fulham,Tier 2,185143
+E09000014,Haringey,Tier 2,268647
+E09000015,Harrow,Tier 2,251160
+E09000016,Havering,Tier 2,259552
+E09000017,Hillingdon,Tier 2,306870
+E09000018,Hounslow,Tier 2,271523
+E09000019,Islington,Tier 2,242467
+E09000020,Kensington and Chelsea,Tier 2,156129
+E09000021,Kingston upon Thames,Tier 2,177507
+E09000022,Lambeth,Tier 2,326034
+E09000023,Lewisham,Tier 2,305842
+E09000024,Merton,Tier 2,206548
+E09000025,Newham,Tier 2,353134
+E09000026,Redbridge,Tier 2,305222
+E09000027,Richmond upon Thames,Tier 2,198019
+E09000028,Southwark,Tier 2,318830
+E09000029,Sutton,Tier 2,206349
+E09000030,Tower Hamlets,Tier 2,324745
+E09000031,Waltham Forest,Tier 2,276983
+E09000032,Wandsworth,Tier 2,329677
+E09000033,Westminster,Tier 2,261317
+N09000001,Antrim and Newtownabbey,Northern Ireland,143504
+N09000002,"Armagh City, Banbridge and Craigavon",Northern Ireland,216205
+N09000003,Belfast,Northern Ireland,343542
+N09000004,Causeway Coast and Glens,Northern Ireland,144838
+N09000005,Derry City and Strabane,Northern Ireland,151284
+N09000006,Fermanagh and Omagh,Northern Ireland,117397
+N09000007,Lisburn and Castlereagh,Northern Ireland,146002
+N09000008,Mid and East Antrim,Northern Ireland,139274
+N09000009,Mid Ulster,Northern Ireland,148528
+N09000010,"Newry, Mourne and Down",Northern Ireland,181368
+N09000011,Ards and North Down,Northern Ireland,161725
+S12000005,Clackmannanshire,Scotland,51540
+S12000006,Dumfries and Galloway,Scotland,148860
+S12000008,East Ayrshire,Scotland,122010
+S12000010,East Lothian,Scotland,107090
+S12000011,East Renfrewshire,Scotland,95530
+S12000013,Na h-Eileanan Siar,Scotland,26720
+S12000014,Falkirk,Scotland,160890
+S12000017,Highland,Scotland,235830
+S12000018,Inverclyde,Scotland,77800
+S12000019,Midlothian,Scotland,92460
+S12000020,Moray,Scotland,95820
+S12000021,North Ayrshire,Scotland,134740
+S12000023,Orkney Islands,Scotland,22270
+S12000026,Scottish Borders,Scotland,115510
+S12000027,Shetland Islands,Scotland,22920
+S12000028,South Ayrshire,Scotland,112610
+S12000029,South Lanarkshire,Scotland,320530
+S12000030,Stirling,Scotland,94210
+S12000033,Aberdeen City,Scotland,228670
+S12000034,Aberdeenshire,Scotland,261210
+S12000035,Argyll and Bute,Scotland,85870
+S12000036,City of Edinburgh,Scotland,524930
+S12000038,Renfrewshire,Scotland,179100
+S12000039,West Dunbartonshire,Scotland,88930
+S12000040,West Lothian,Scotland,183100
+S12000041,Angus,Scotland,116200
+S12000042,Dundee City,Scotland,149320
+S12000045,East Dunbartonshire,Scotland,108640
+S12000047,Fife,Scotland,373550
+S12000048,Perth and Kinross,Scotland,151950
+S12000049,Glasgow City,Scotland,633120
+S12000050,North Lanarkshire,Scotland,341370
+W06000001,Isle of Anglesey,Wales,70043
+W06000002,Gwynedd,Wales,124560
+W06000003,Conwy,Wales,117203
+W06000004,Denbighshire,Wales,95696
+W06000005,Flintshire,Wales,156100
+W06000006,Wrexham,Wales,135957
+W06000008,Ceredigion,Wales,72695
+W06000009,Pembrokeshire,Wales,125818
+W06000010,Carmarthenshire,Wales,188771
+W06000011,Swansea,Wales,246993
+W06000012,Neath Port Talbot,Wales,143315
+W06000013,Bridgend,Wales,147049
+W06000014,Vale of Glamorgan,Wales,133587
+W06000015,Cardiff,Wales,366903
+W06000016,Rhondda Cynon Taf,Wales,241264
+W06000018,Caerphilly,Wales,181075
+W06000019,Blaenau Gwent,Wales,69862
+W06000020,Torfaen,Wales,93961
+W06000021,Monmouthshire,Wales,94590
+W06000022,Newport,Wales,154676
+W06000023,Powys,Wales,132435
+W06000024,Merthyr Tydfil,Wales,60326
